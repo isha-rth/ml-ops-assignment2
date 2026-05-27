@@ -25,6 +25,6 @@ Run the notebook in Kaggle with:
 
 ## Links
 
-- Kaggle Notebook: ADD_YOUR_KAGGLE_LINK
+- Kaggle Notebook: https://www.kaggle.com/code/rathodishag25ait2084/notebook0315781c1b
 - Hugging Face Model: https://huggingface.co/IshaIIT/distilbert-news-classifier
-- W&B Dashboard: ADD_YOUR_WANDB_LINK
+- W&B Dashboard: https://wandb.ai/g25ait2084-iit/mlops-assignment2?nw=nwuserg25ait2084
